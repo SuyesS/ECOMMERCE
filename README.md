@@ -8,5 +8,6 @@ Language Specifications:
 
 STEPS:
 >Create database named "db_ecommerce"
+
 >import the sql "db_ecommerce"
 
